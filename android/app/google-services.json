@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "940977484590",
+    "project_id": "weather-c6323",
+    "storage_bucket": "weather-c6323.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940977484590:android:0720e89885ae13f74800bf",
+        "android_client_info": {
+          "package_name": "com.step.step_counter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2VTOiPmneMwM8iwnNbZ0W0l1AerBiuuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
