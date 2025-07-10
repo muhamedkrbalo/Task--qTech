@@ -13,7 +13,7 @@ A simple Flutter app that tracks the number of steps using the phone's accelerom
 
   🛠️ Packages Used
 دد
-Package Description
+ Package Description
 
 sensors_plus	Reads step-related data from the device’s accelerometer.
 
