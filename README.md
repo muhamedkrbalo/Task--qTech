@@ -11,9 +11,9 @@ A simple Flutter app that tracks the number of steps using the phone's accelerom
 - Daily forecast list.
 - Weather notifications every 30 or 60 minutes, even if the app is closed or in background.
 
-  🛠️ Packages Used
-دد
- Package Description
+🛠️ Packages Used
+
+Package Description
 
 sensors_plus	Reads step-related data from the device’s accelerometer.
 
